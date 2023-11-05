@@ -1,0 +1,15 @@
+shop\controller\ShopController.class
+shop\service\ShopService.class
+shop\controller\UserController.class
+shop\service\UserService.class
+shop\dao\UserDao.class
+shop\domain\User.class
+shop\dao\ShopDao.class
+shop\config\MybatisConfig.class
+shop\service\impl\ShopServiceImpl.class
+shop\config\JdbcConfig.class
+shop\service\impl\UserServiceImpl.class
+shop\domain\Shop.class
+shop\config\SpringMvc.class
+shop\config\ServletContainersInitConfig.class
+shop\config\SpringConfig.class
